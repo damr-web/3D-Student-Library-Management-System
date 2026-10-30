@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 3D Student Library Management System
 **Advanced Java / J2EE & Three.js Web Application**
 
@@ -235,3 +236,6 @@ http://localhost:8080/
 ## 📜 License
 Developed as an educational showcase project for Advanced Java & J2EE and Interactive Web Engineering. Free to adapt and use for academic submissions and demonstrations.
 
+=======
+# 3D-Student-Library-Management-System
+>>>>>>> 230b62b0a3d1937ae347f067410fc1f9d29c5c2e
